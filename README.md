@@ -48,6 +48,3 @@ If the current primary display is `1`, running the script will switch to display
 ## Notes
 - This script assumes you have exactly two displays (`1` and `2`). If your setup is different, modify the script accordingly.
 - Ensure the script has permission to modify `active.txt` in its directory.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
